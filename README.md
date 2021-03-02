@@ -12,7 +12,7 @@ Setup Instructions
 
 4 - cd backend
 
-5 - pip install requirements.txt
+5 - pip install -r requirements.txt
 
 6 - python manage.py runserver
 
